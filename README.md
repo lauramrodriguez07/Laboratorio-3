@@ -59,7 +59,3 @@ Este proyecto es un chatbot interactivo especializado en sistemas digitales y te
 Este proyecto fue desarrollado como parte del curso de Sistemas Digitales. Las mejoras y sugerencias son bienvenidas para futuros desarrollos.
 
 **Enlace de acceso streamlit:** http://localhost:8501/
-
-**Laura Rodríguez**  
-**Sistemas Digitales**  
-**7 de Septiembre de 2025**
